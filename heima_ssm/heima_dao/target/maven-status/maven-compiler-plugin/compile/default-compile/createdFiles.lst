@@ -1,0 +1,8 @@
+com\heima\dao\MemberDao.class
+com\heima\dao\RoleDao.class
+com\heima\dao\TravellerDao.class
+com\heima\dao\SysLogDao.class
+com\heima\dao\UserDao.class
+com\heima\dao\ProductDao.class
+com\heima\dao\OrdersDao.class
+com\heima\dao\PermissionDao.class

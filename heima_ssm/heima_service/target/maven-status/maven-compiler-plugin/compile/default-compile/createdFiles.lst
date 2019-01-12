@@ -1,0 +1,12 @@
+com\heima\service\impl\SysLogServiceImpl.class
+com\heima\service\SysLogService.class
+com\heima\service\impl\ProductServiceImpl.class
+com\heima\service\PermissionService.class
+com\heima\service\impl\OrdersServiceImpl.class
+com\heima\service\impl\PermissionServiceImpl.class
+com\heima\service\impl\RoleServiceImpl.class
+com\heima\service\impl\UserServiceImpl.class
+com\heima\service\OrdersService.class
+com\heima\service\ProductService.class
+com\heima\service\RoleService.class
+com\heima\service\UserService.class

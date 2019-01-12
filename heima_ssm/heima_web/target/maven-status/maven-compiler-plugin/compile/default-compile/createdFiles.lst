@@ -1,0 +1,7 @@
+com\heima\controller\LogAop.class
+com\heima\controller\ProductController.class
+com\heima\controller\UserController.class
+com\heima\controller\PermissionController.class
+com\heima\controller\RoleController.class
+com\heima\controller\OrdersController.class
+com\heima\controller\SysLogController.class

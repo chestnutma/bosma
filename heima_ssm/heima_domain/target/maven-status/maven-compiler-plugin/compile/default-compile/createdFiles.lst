@@ -1,0 +1,8 @@
+com\heima\ssm\domain\Member.class
+com\heima\ssm\domain\Product.class
+com\heima\ssm\domain\Orders.class
+com\heima\ssm\domain\Role.class
+com\heima\ssm\domain\Permission.class
+com\heima\ssm\domain\Traveller.class
+com\heima\ssm\domain\UserInfo.class
+com\heima\ssm\domain\SysLog.class
